@@ -1,4 +1,4 @@
-# VRC_SharableProp
+# VRC_SharableProp v2.0
 A system that tracks the rotation of another user's hand.
 
 他のユーザーの手の回転を追跡するシステム。
