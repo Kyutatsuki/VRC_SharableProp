@@ -8,5 +8,3 @@ A system that tracks the rotation of another user's hand.
 ## Dependencies
 
 [Modular Avatar](https://modular-avatar.nadena.dev/)
-
-[Final IK Stub](https://github.com/VRLabs/Final-IK-Stub/releases/)
